@@ -8,7 +8,7 @@ html {
 }
 @font-face {
   font-family: mFont;
-  src: url('/ZCOOLKuaiLe-Regular.ttf');
+  src: url('/party-test/dist/ZCOOLKuaiLe-Regular.ttf');
 }
 .back-btn {
   position: absolute;
