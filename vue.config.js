@@ -3,6 +3,6 @@
 module.exports = {
   productionSourceMap: false,
   // publicPath: '/insdot-web/dist/',
-  // publicPath: './',
+  publicPath: '/party-test/',
 
 }
