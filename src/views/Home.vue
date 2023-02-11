@@ -9,7 +9,7 @@
            :key="i"
            class="common-app"
            @click.stop="selectGame(index)">
-        <img src="/player1.jpeg" />
+        <img src="/party-test/dist/player1.jpeg" />
         <span>{{ i }}</span>
       </div>
     </div>
@@ -219,7 +219,7 @@ export default defineComponent({
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(/card.jpeg);
+    background-image: url(/party-test/dist/card.jpeg);
     background-size: cover;
     background-position: 50% 50%;
   }

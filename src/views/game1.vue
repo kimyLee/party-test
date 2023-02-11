@@ -169,28 +169,28 @@ export default defineComponent({
   left: 0;
   width: 100%;
   height: 100%;
-  // background-image: url(/card.jpeg);
+  // background-image: url(/party-test/dist/card.jpeg);
   background-size: cover;
   background-position: 50% 50%;
 
   &.player1 {
-    background-image: url(/player1.jpeg);
+    background-image: url(/party-test/dist/player1.jpeg);
   }
 
   &.player2 {
-    background-image: url(/player2.jpeg);
+    background-image: url(/party-test/dist/player2.jpeg);
   }
 
   &.player3 {
-    background-image: url(/player3.jpeg);
+    background-image: url(/party-test/dist/player3.jpeg);
   }
 
   &.player4 {
-    background-image: url(/player4.jpeg);
+    background-image: url(/party-test/dist/player4.jpeg);
   }
 
   &.player5 {
-    background-image: url(/player5.jpeg);
+    background-image: url(/party-test/dist/player5.jpeg);
   }
 }
 
